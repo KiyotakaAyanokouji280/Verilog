@@ -1,3 +1,6 @@
-### Code for processor is not pushed yet. Will be done shortly.
-### Code for fifo memory testbench is not pushed yet. Will be done soon.
-### Code for debouncing testbench is not pushed yet. Will be done soon.
+# Projects:
+### 16 Bit RISC Processor implemented on verilog
+### FIFO memory implemented on verilog
+### Keyboard debouncing error fix
+
+
